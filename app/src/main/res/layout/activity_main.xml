@@ -23,4 +23,12 @@
         tools:layout_editor_absoluteX="142dp"
         tools:layout_editor_absoluteY="50dp" />
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Arno commit!!"
+        tools:layout_editor_absoluteX="183dp"
+        tools:layout_editor_absoluteY="168dp" />
+
 </android.support.constraint.ConstraintLayout>
